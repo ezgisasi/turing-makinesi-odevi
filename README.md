@@ -55,8 +55,9 @@ turing_sifre_kontrolu/
 ## Örnek Çıktılar
 
 ![Doğru şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/1.png)
+
 ![Hatalı şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/2.png)
 
 ## Lisans
 
-Bu proje [MIT Lisansı]([LICENSE](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/LICENSE)) ile lisanslanmıştır.
+Bu proje [` MIT Lisansı`](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/LICENSE) ile lisanslanmıştır.
