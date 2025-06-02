@@ -1,6 +1,6 @@
 # Turing Makinesi ile PIN Doğrulama
 
-Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit bir PIN ile eşleşip eşleşmediğini kontrol eden bir **Turing makinesi** tasarlanmış ve bu makine yazılım ortamında simüle edilmiştir.
+Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit bir PIN ile eşleşip eşleşmediğini kontrol eden bir **Turing makinesi** tasarlandı ve bu makine yazılım ortamında simüle edildi.
 
 ---
 
