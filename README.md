@@ -39,6 +39,21 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
     - Eşleşmiyorsa **reddet** durumuna geçilir.
 
 
+## Durum Geçiş Tablosu
+
+| Güncel Durum | Okunan Simge           | İşlem                                         | Yeni Durum |
+|--------------|------------------------|-----------------------------------------------|------------|
+| q0           | #                      | Başla                                         | q1         |
+| q1           | != beklenen simge      | Hata                                          | qH         |
+| q1           | == beklenen simge      | Karşılaştır, işaretle (X/Y), sağa git         | q2         |
+| q2           | != beklenen simge      | Hata                                          | qH         |
+| q2           | == beklenen simge      | Karşılaştır, işaretle (X/Y), sağa git         | q3         |
+| q3           | != beklenen simge      | Hata                                          | qH         |
+| q3           | == beklenen simge      | Karşılaştır, işaretle (X/Y), sağa git         | q4         |
+| q4           | != beklenen simge      | Hata                                          | qH         |
+| q4           | sistem PIN sonunda `#` | Hepsi eşleşti, kabul et                       | kabul      |
+
+
 ## Örnek Çıktılar
 
 ![Doğru şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/1.png)
