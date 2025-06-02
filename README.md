@@ -43,7 +43,7 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
 
 | Güncel Durum | Okunan Simge           | İşlem                                         | Yeni Durum |
 |--------------|------------------------|-----------------------------------------------|------------|
-| q0           | #                      | Başla                                         | q1         |
+| q0           | #                      | Başla,sağa git                                | q1         |
 | q1           | != beklenen simge      | Hata                                          | qH         |
 | q1           | == beklenen simge      | Karşılaştır, işaretle (X/Y), sağa git         | q2         |
 | q2           | != beklenen simge      | Hata                                          | qH         |
