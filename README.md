@@ -11,7 +11,7 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
   
 - **Girdi Yapısı**:  
   ```
-  PIN#SABITPIN # Örnek: 1234#1234  
+  PIN#SABITPIN   # Örnek: 1234#1234  
   ```
 
 - **Bant Örneği**:
