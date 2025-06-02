@@ -28,19 +28,6 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
 
 ---
 
-## Dosya Yapısı
-
-```
-turing_sifre_kontrolu/
-│
-├── main.py              # Ana program dosyası 
-├── turing_makinesi.py   # Turing makinesi sınıfı
-├── images               # Örnek çıktı görselleri             
-├── LICENSE 
-└── README.md            # Proje açıklamaları
-```
-
-
 ## Proje Adımları
 
 1. Konsoldan kullanıcıdan 4 haneli PIN alınır.  
