@@ -34,7 +34,9 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
 turing_sifre_kontrolu/
 │
 ├── main.py              # Ana program dosyası 
-├── turing_makinesi.py   # Turing makinesi sınıfı 
+├── turing_makinesi.py   # Turing makinesi sınıfı
+├── images               # Örnek çıktı görselleri             
+├── LICENSE 
 └── README.md            # Proje açıklamaları
 ```
 
