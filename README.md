@@ -22,7 +22,7 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
   
   - İlk `#` → Başlangıç sembolü  
   - `1234` → Kullanıcının PIN girişi  
-  - Ortadaki `#` → Ayıraç  
+  - Ortadaki `#` → Ayraç  
   - Sonraki `1234` → Sistem PIN'i  
   - Son `#` → Sonlandırıcı
 
