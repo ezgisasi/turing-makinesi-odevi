@@ -51,7 +51,7 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
 | q3           | != beklenen simge      | Hata                                          | qH         |
 | q3           | == beklenen simge      | Karşılaştır, işaretle (X/Y), sağa git         | q4         |
 | q4           | != beklenen simge      | Hata                                          | qH         |
-| q4           | sistem PIN sonunda `#` | Hepsi eşleşti, kabul et                       | kabul      |
+| q4           | Tümü eşleşti           | Kabul et                       | kabul      |
 
 
 ## Örnek Çıktılar
