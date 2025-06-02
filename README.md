@@ -56,7 +56,15 @@ turing_sifre_kontrolu/
 
 ![Doğru şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/1.png)
 
+
 ![Hatalı şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/2.png)
+
+
+![Doğru şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/3.png)
+
+
+![Hatalı şifre örneği](https://github.com/ezgisasi/turing-makinesi-odevi/blob/main/images/4.png)
+
 
 ## Lisans
 
