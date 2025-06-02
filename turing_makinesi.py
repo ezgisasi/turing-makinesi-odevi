@@ -25,7 +25,6 @@ class TuringMakinesi:
 
     def dogrula(self):
         self.durum = "q1"  # Bir sonraki durum
-        self.bant_yazdir()
 
         # Sistem PIN’inin başladığı yeri bul
         try:
