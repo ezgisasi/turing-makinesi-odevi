@@ -16,11 +16,11 @@ class TuringMakinesi:
         if yon == "R":  # Sağa git
             self.kafa += 1
             if self.kafa >= len(self.bant):  # Sona geldiyse boş hücre ekle
-                self.bant.append("_")
+                self.bant.append("B")
         elif yon == "L":  # Sola git
             self.kafa -= 1
             if self.kafa < 0:  # Başın altına düşerse öne boş hücre koy
-                self.bant.insert(0, "_")
+                self.bant.insert(0, "B")
                 self.kafa = 0
 
     def dogrula(self):
