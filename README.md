@@ -31,7 +31,7 @@ Bu projede, bir kullanıcının girdiği PIN kodunun, sistemde kayıtlı sabit b
 ## Proje Adımları
 
 1. Konsoldan kullanıcıdan 4 haneli PIN alınır.  
-2. Sistem PIN’i kod içinde sabit olarak tanımlanır veya ayrı bir dosyadan okunabilir.  
+2. Sistem PIN’i kod içinde sabit olarak tanımlıdır.
 3. Girilen veri, Turing makinesi formatına dönüştürülerek bant üzerinde simüle edilir.  
 4. Turing makinesi adım adım ilerlerken şerit durumu gösterilir.  
 5. Sonuç olarak:
